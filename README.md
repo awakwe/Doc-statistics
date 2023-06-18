@@ -11,7 +11,7 @@ comment:  This document is a simple LiaScript course example.
 
 -->
 
-# AP Statistics
+# Doctorial Statistics
 
 ## Pre-Assessment Quiz
 
