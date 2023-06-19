@@ -77,6 +77,39 @@ comment:  This document is a simple LiaScript course example.
    B. Summary of the implications of using or not using confidence intervals
    C. Final thoughts on the importance of confidence intervals in statistical analysis.
 
+
+# Doctoral Statistics Study Guide: Assignment - Week 4
+
+## I. Introduction
+   - Purpose of the assignment
+   - Review of key topics: probability, sampling distributions, and confidence intervals
+   - Overview of the SPSS software and dataset selection process
+
+## II. Preparing for the Assignment
+   - Review of Learning Resources on probability, sampling distributions, and confidence intervals
+   - Utilizing the Skill Builder resources for additional support
+   - Opening the Afrobarometer or HS Longitudinal Study dataset in SPSS
+   - Selection of an appropriate variable from Weeks 2 and 3 for confidence interval calculation
+
+## III. Performing the confidence interval in SPSS
+   - Explanation of confidence interval calculation process in SPSS
+   - Calculation of the confidence interval for the chosen variable
+   - Reviewing Chapter 5 and 11 of the Wagner text for guidance on copying and pasting output
+
+## IV. Analysis of results
+   A. Presentation of the visual display of the data
+      1. Copying and pasting the appropriate visual display into the document
+      2. Reporting the mean of Q1 (Age) for Afrobarometer or X1SES for HS Long Survey Dataset
+      
+   B. Interpretation of the confidence interval results
+      1. Explanation of the confidence interval and its interpretation
+      2. Analysis of the implications of the confidence interval for social change
+
+## V. Conclusion
+   - Recap of the key topics and concepts covered in the assignment
+   - Summary of the analysis and implications for social change
+   - Final thoughts on the practical application of confidence intervals in statistical analysis.
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you evaluate your understanding and identify areas where you may need to review.
