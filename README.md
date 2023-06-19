@@ -12,6 +12,8 @@ comment:  This document is a simple LiaScript course example.
 -->
 
 # Doctorial Statistics
+
+# SPSS Outline
 SPSS (Statistical Package for the Social Sciences) Software Study Guide
 
 1. Introduction
