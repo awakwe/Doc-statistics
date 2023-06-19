@@ -322,6 +322,23 @@ Throughout the module, there will be quizzes to test your knowledge on the topic
 
 During the virtual lecture, we will use active learning strategies to engage with the material and deepen our understanding. These strategies may include group discussions, problem-solving activities, and interactive simulations.
 
+
+## Resources
+
+Here are some recommended resources to further enhance your understanding and proficiency in using SPSS:
+
+- [W3Schools Statistics Tutorial](https://www.w3schools.com/statistics/index.php#gsc.tab=0): W3Schools provides a comprehensive online tutorial on statistics, including concepts, formulas, and examples. This resource can help you strengthen your statistical knowledge, which is essential for effective data analysis using SPSS.
+
+- [IBM SPSS Statistics Documentation](https://www.ibm.com/docs/en/spss-statistics/25.0.0?topic=tutorial): The official documentation from IBM offers tutorials, guides, and reference materials for SPSS Statistics. This resource covers various topics, including data management, statistical analysis, visualization, and advanced techniques. It provides detailed instructions on using SPSS features and can serve as a valuable reference during your analysis.
+
+- [LinkedIn Learning: SPSS Data Analysis and Interpretation](https://www.linkedin.com/advice/0/how-do-you-use-spss-data-analysis-interpretation): LinkedIn Learning offers video courses and tutorials on SPSS data analysis and interpretation. These resources provide step-by-step guidance on using SPSS for various statistical analyses, interpreting the results, and presenting findings effectively. Accessing these courses can help you develop practical skills in utilizing SPSS for data analysis.
+
+By utilizing these resources, you can expand your knowledge of statistics, gain expertise in using SPSS software, and enhance your overall data analysis capabilities. Remember to explore additional resources such as books, research papers, and online forums to further deepen your understanding and stay updated with the latest developments in SPSS.
+
+Happy learning and exploring!
+
+
+
 ## Conclusion
 
 By the end of this module, you should have a strong foundation in AP Statistics and be well-prepared for the AP Statistics exam.
